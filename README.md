@@ -12,9 +12,14 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 </div><br/>
 
+##
+
 <div style = "display: inline_block">
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SauloAstro&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
-
+  
+  <a href = "mailto:saulo.mozart09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/saulo-marcus-coelho-da-silva-045055194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
