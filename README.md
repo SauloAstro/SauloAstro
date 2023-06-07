@@ -21,7 +21,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloAstro&show_icons=true&theme=transparent)
   
   <a href = "mailto:saulo.mozart09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/saulo-marcus-coelho-da-silva-045055194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/saulomarcus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
